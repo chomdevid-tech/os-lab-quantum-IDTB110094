@@ -53,4 +53,4 @@ typical example of a time-of-check to time-of-use (TOC-TOU) race condition.
 ## Level 7 — Forensic Cleanup
 ### Observation Checkpoint 7
 
-![Level 7 Cleanup](image/level7.png)
+![Level 7 Cleanup](image/Level7.png)
