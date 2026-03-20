@@ -8,7 +8,7 @@
 ## Level 2 — Audit Trails
 ### Observation Checkpoint 1
 
-![Level 2 Output](image/level2.png)
+![Level 2 Output](image/Level2.png)
 
 ----------------------------------------------
 
@@ -32,21 +32,21 @@ typical example of a time-of-check to time-of-use (TOC-TOU) race condition.
 ## Level 4 — The Patch (Mutex)
 ### Observation Checkpoint 3
 
-![Level 4 Mutex](image/level4.png)
+![Level 4 Mutex](image/Level4.png)
 
 -----------------------------------
 
 ## Level 5 — Red Team vs Blue Team
 ### Observation Checkpoint 4
 
-![Level 5 Result](image/level5.png)
+![Level 5 Result](image/Level5.png)
 
 --------------------------------------------------
 
 ## Level 6 — Secure Drop Zone
 ### Observation Checkpoint 5
 
-![Level 6 Secure Zone](image/level6.png)
+![Level 6 Secure Zone](image/Level6.png)
 
 -----------------------------------------------------------------
 
